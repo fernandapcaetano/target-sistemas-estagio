@@ -1,5 +1,5 @@
 # TARGET - Estágio em Desenvolvimento
-
+Resolução utilizando a linguagem Java.
 ## Resolução das Questões de 1 a 3
 A resolução dessas questões pode ser encontrada nos códigos na pasta 'src' do projeto: <https://github.com/fernandapcaetano/target-sistemas-estagio/tree/main/src>
 
