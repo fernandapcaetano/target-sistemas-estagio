@@ -3,6 +3,8 @@
 ## Resolução das Questões de 1 a 3
 A resolução dessas questões pode ser encontrada nos códigos na pasta 'src' do projeto: <https://github.com/fernandapcaetano/target-sistemas-estagio/tree/main/src>
 
+Tudo será testado no arquivo App.java.
+
 ## Resolução das Questões de 4 a 5
 
 ### Questão 4: Descubra a Lógica e Complete o Próximo Elemento
